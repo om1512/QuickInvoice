@@ -13,4 +13,10 @@ A small invoice generator application built on the ASP.NET framework is a user-f
 |<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/6.png" />|
 |<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/7.png" />|
 |<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/8.png" />|
+|<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/9.png" />|
+|<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/10.png" />|
+|<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/11.png" />|
+|<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/12.png" />|
+|<img src="https://github.com/om1512/QuickInvoice/blob/main/Screenshots/13.png" />|
+
 
